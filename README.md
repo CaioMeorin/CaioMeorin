@@ -18,7 +18,8 @@ Coding isn't just my profession – it's my passion. I've delved into realms bey
 Venture into my Codewars domain and witness my journey of coding battles and victories. Each badge earned is a testament to the skills honed, challenges conquered, and the unwavering spirit of a coder seeking excellence. [![Codewars Badge](https://www.codewars.com/users/caiomeorin/badges/large)](https://www.codewars.com/users/caiomeorin)
 
 ## 📊 Stats in the Spotlight
-Behold my GitHub Stats – a visual symphony of commits, pulls, and contributions that define my digital footprint. My journey isn't just about code; it's about the impact and growth that come with every keystroke. ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiomeorin&show_icons=true&count_private=true&hide=contribs)
+Behold my GitHub Stats – a visual symphony of commits, pulls, and contributions that define my digital footprint. My journey isn't just about code; it's about the impact and growth that come with every keystroke.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiomeorin&show_icons=true&count_private=true&hide=contribs)
 
 ## 🌐 Let's Forge Connections
 This journey isn't meant to be walked alone. Connect with me on [LinkedIn](https://www.linkedin.com/in/cmeorin), and let's exchange insights, discuss the ever-evolving tech landscape, and kindle the fire of innovation together.
